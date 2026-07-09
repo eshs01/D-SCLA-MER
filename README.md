@@ -1,0 +1,1 @@
+# a static AI sysytem 
